@@ -1,0 +1,4 @@
+Imię Nazwisko
+Adres
+Kod i miasto
+Kraj
